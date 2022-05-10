@@ -52,6 +52,8 @@
   border-radius: 40px;
   background: rgb(5, 7, 37) url(../props/logoorange.png);
   background-size: cover;
+  background-size: 189px;
+  background-repeat: no-repeat;
   background-position: center;
   border: 2px solid var(--color-sec-light);
 }
